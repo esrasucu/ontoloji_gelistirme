@@ -1,0 +1,37 @@
+İÇECEK ONTOLOJİSİ - TERİMLER LİSTESİ
+==========================================
+
+1. SINIFLAR (CLASSES)
+---------------------
+- icecek (Ana Sınıf)
+- sicak_icecek (Alt Sınıf)
+- soguk_icecek (Alt Sınıf)
+- kahve
+- çay
+- sıcak_cikolata
+- ayran
+- cola
+- maden_suyu
+- meyve_suyu
+- limonata
+- süt
+- badem_sütü
+- arabica
+- kısa (Sınıf olarak tanımlı raf ömrü)
+
+2. NESNE ÖZELLİKLERİ (OBJECT PROPERTIES)
+----------------------------------------
+- raf_omru
+- kısa (raf_omru alt özelliği)
+- uzun (raf_omru alt özelliği)
+- kafeinli
+- sütlü
+
+3. VERİ ÖZELLİKLERİ (DATA PROPERTIES)
+-------------------------------------
+- omur uzunlugu (omur_uzunlugu)
+
+4. BİREYLER (INDIVIDUALS)
+-------------------------
+- kafeinli sıcak icecek
+- sutlu soguk icecek
