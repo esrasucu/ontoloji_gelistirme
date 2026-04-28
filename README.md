@@ -30,5 +30,6 @@ Ontolojide bireyler üzerinde belirli kısıtlamalar (Restrictions) tanımlanmı
 tanımlanmıştır.
 
 4. Kullanım
+   
 Bu dosya Protégé veya benzeri ontoloji editörleri ile açılabilir. SPARQL sorguları
 ile içecekler arasında filtreleme yapılabilir.
