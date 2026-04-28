@@ -1,4 +1,4 @@
-# ontoloji_gelistirme
+# İçecek Ontolojisi
 
 1. Proje Hakkında
    
